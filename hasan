@@ -1,3 +1,10 @@
+#!/bin/bash
+
+echo ""
+curl -s https://raw.githubusercontent.com/CryptoAirdropHindi/Crypto-Airdrop-Hindi-Guides/main/logo.sh
+sleep 2
+
+
 # Update and upgrade
 apt update && apt upgrade -y
 
