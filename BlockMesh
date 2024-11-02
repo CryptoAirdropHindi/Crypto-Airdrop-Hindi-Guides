@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Showing Crypto Airdrop Hindi..."
+echo ""
 curl -s https://raw.githubusercontent.com/CryptoAirdropHindi/Crypto-Airdrop-Hindi-Guides/main/logo.sh
 sleep 2
 
