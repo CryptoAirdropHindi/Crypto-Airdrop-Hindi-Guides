@@ -1,7 +1,6 @@
 #!/bin/bash
 
 echo "Showing Crypto Airdrop Hindi..."
-wget -O loader.sh https://raw.githubusercontent.com/CryptoAirdropHindi/Crypto-Airdrop-Hindi-Guides/main/loader.sh && chmod +x loader.sh && ./loader.sh
 curl -s https://raw.githubusercontent.com/CryptoAirdropHindi/Crypto-Airdrop-Hindi-Guides/main/logo.sh
 sleep 2
 
